@@ -1,0 +1,39 @@
+# ── Datasets & Test Media ──────────────────────────────
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+*.mov
+*.mkv
+data/
+dataset/
+images/
+videos/
+
+# ── Models & Weights ───────────────────────────────────
+# Note: If you want best.pt on Github, you can remove this line.
+# However, 6MB is small enough that Git can handle it without LFS.
+# *.pt 
+# *.pth
+# *.onnx
+
+# ── Nested Repositories (CRITICAL!) ────────────────────
+# You MUST ignore hf_push because it is already a separate 
+# Git repository connected to Hugging Face. Pushing it to 
+# Github will create a broken "Git Submodule".
+
+# ── Python Cache & Environment ─────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+.venv/
+
+# ── IDEs & OS ──────────────────────────────────────────
+.DS_Store
+.idea/
+.vscode/
+*.swp
