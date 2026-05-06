@@ -1,0 +1,419 @@
+Image Name,Extracted Plate,Evaluation Status
+AN1.jpg,AN01P9687,Processed (Note: OCR predictions may still not be 100% perfect).
+AN4.jpg,FAN01N4M,FLAGGED: Invalid State/RTO semantics.
+AN6.jpg,SAN0IB1689,FLAGGED: Invalid State/RTO semantics.
+AN7.jpg,AN01H0908,Processed (Note: OCR predictions may still not be 100% perfect).
+AN10.jpg,UNREADABLE,Failed to read.
+AP1.jpg,AP05BY7799,Processed (Note: OCR predictions may still not be 100% perfect).
+AP3.jpg,UNREADABLE,Failed to read.
+AP6.jpg,AP31TY7236,Processed (Note: OCR predictions may still not be 100% perfect).
+AP7.jpg,AP31BL8656,Processed (Note: OCR predictions may still not be 100% perfect).
+AP10.jpg,AP39E1493,Processed (Note: OCR predictions may still not be 100% perfect).
+AP13.jpg,AP39JJ5441,Processed (Note: OCR predictions may still not be 100% perfect).
+AP14.jpg,AP10AS3445,Processed (Note: OCR predictions may still not be 100% perfect).
+AP15.jpg,AP28AT5333,Processed (Note: OCR predictions may still not be 100% perfect).
+AP18.jpg,EAP1BBS4500,FLAGGED: Invalid State/RTO semantics.
+AP19.jpg,AP04M7627,Processed (Note: OCR predictions may still not be 100% perfect).
+AP21.jpg,AP31AT5064,Processed (Note: OCR predictions may still not be 100% perfect).
+AP22.jpg,AP16CH9545,Processed (Note: OCR predictions may still not be 100% perfect).
+AP24.jpg,AP07AD5555,Processed (Note: OCR predictions may still not be 100% perfect).
+AP25.jpg,AP26AM1260,Processed (Note: OCR predictions may still not be 100% perfect).
+AP26.jpg,AP31BR9501,Processed (Note: OCR predictions may still not be 100% perfect).
+AP33.jpg,PAP3IOA0020,FLAGGED: Invalid State/RTO semantics.
+AP41.jpg,AP5CG6320,FLAGGED: Invalid State/RTO semantics.
+AP42.jpg,PAP3AO76847,FLAGGED: Invalid State/RTO semantics.
+AP43.jpg,AP31BG7827,Processed (Note: OCR predictions may still not be 100% perfect).
+AP45.jpg,AP31BL2833,Processed (Note: OCR predictions may still not be 100% perfect).
+AP46.jpg,AP31CS2511,Processed (Note: OCR predictions may still not be 100% perfect).
+AR1.jpg,BR30A8395,Processed (Note: OCR predictions may still not be 100% perfect).
+AR2.jpg,AR01F2523,Processed (Note: OCR predictions may still not be 100% perfect).
+AR4.jpg,PAR0IC5723,FLAGGED: Invalid State/RTO semantics.
+AR6.jpg,AR168272,Processed (Note: OCR predictions may still not be 100% perfect).
+AR7.jpg,AR02A7116,Processed (Note: OCR predictions may still not be 100% perfect).
+AR9.jpg,AR01E1034,Processed (Note: OCR predictions may still not be 100% perfect).
+AR11.jpg,AR01J0123,Processed (Note: OCR predictions may still not be 100% perfect).
+AR12.jpg,UNREADABLE,Failed to read.
+AR13.jpg,AR200692,Processed (Note: OCR predictions may still not be 100% perfect).
+AS1.jpg,AS23H2866,Processed (Note: OCR predictions may still not be 100% perfect).
+AS2.jpg,AS07AC6653,Processed (Note: OCR predictions may still not be 100% perfect).
+AS3.jpg,AS23E0596,Processed (Note: OCR predictions may still not be 100% perfect).
+AS5.jpg,AS23H0770,Processed (Note: OCR predictions may still not be 100% perfect).
+AS6.jpg,AS12S6951,Processed (Note: OCR predictions may still not be 100% perfect).
+AS7.jpg,AS06O4437,Processed (Note: OCR predictions may still not be 100% perfect).
+AS8.jpg,AS01AM1419,Processed (Note: OCR predictions may still not be 100% perfect).
+AS9.jpg,AS04X2780,Processed (Note: OCR predictions may still not be 100% perfect).
+AS10.jpg,AS01DG6002,Processed (Note: OCR predictions may still not be 100% perfect).
+AS16.jpg,AS01AL3746,Processed (Note: OCR predictions may still not be 100% perfect).
+AS17.jpg,FA50IAR1986,FLAGGED: Invalid State/RTO semantics.
+AS18.jpg,XS04Z4549,FLAGGED: Invalid State/RTO semantics.
+AS19.jpg,AS06U1295,Processed (Note: OCR predictions may still not be 100% perfect).
+AS21.jpg,HR523X5585,Processed (Note: OCR predictions may still not be 100% perfect).
+AS22.jpg,AS01AN8668,Processed (Note: OCR predictions may still not be 100% perfect).
+AS24.jpg,AS23G2612,Processed (Note: OCR predictions may still not be 100% perfect).
+AS25.jpg,AS01BS4362,Processed (Note: OCR predictions may still not be 100% perfect).
+BR3.jpg,BR01A2029,Processed (Note: OCR predictions may still not be 100% perfect).
+BR4.jpg,BR06U2470,Processed (Note: OCR predictions may still not be 100% perfect).
+BR8.jpg,PB40IOG6692,Processed (Note: OCR predictions may still not be 100% perfect).
+BR10.jpg,BR32PA6558,Processed (Note: OCR predictions may still not be 100% perfect).
+BR11.jpg,BR02AF7424,Processed (Note: OCR predictions may still not be 100% perfect).
+BR13.jpg,BR01PL7594,Processed (Note: OCR predictions may still not be 100% perfect).
+BR14.jpg,PB40IBL6628,Processed (Note: OCR predictions may still not be 100% perfect).
+BR15.jpg,BR01BR5435,Processed (Note: OCR predictions may still not be 100% perfect).
+BR16.jpg,BR33X0001,Processed (Note: OCR predictions may still not be 100% perfect).
+BR18.jpg,BR01BD5042,Processed (Note: OCR predictions may still not be 100% perfect).
+CG1.jpg,CG04HD6930,Processed (Note: OCR predictions may still not be 100% perfect).
+CG4.jpg,CG04HV7009,Processed (Note: OCR predictions may still not be 100% perfect).
+CG6.jpg,CG22A0111,Processed (Note: OCR predictions may still not be 100% perfect).
+CG7.jpg,CG08K205,Processed (Note: OCR predictions may still not be 100% perfect).
+CG8.jpg,CG04H5060,Processed (Note: OCR predictions may still not be 100% perfect).
+CG9.jpg,CG04HC4887,Processed (Note: OCR predictions may still not be 100% perfect).
+CG10.jpg,CG22H7740,Processed (Note: OCR predictions may still not be 100% perfect).
+CG11.jpg,CG44S4555,FLAGGED: Invalid State/RTO semantics.
+CG12.jpg,CG12AG1130,Processed (Note: OCR predictions may still not be 100% perfect).
+CG13.jpg,CG16B1802,Processed (Note: OCR predictions may still not be 100% perfect).
+CG15.jpg,CG07BR3255,Processed (Note: OCR predictions may still not be 100% perfect).
+CG16.jpg,UNREADABLE,Failed to read.
+CG17.jpg,CG07MA2529,Processed (Note: OCR predictions may still not be 100% perfect).
+CG18.jpg,CG07CA7784,Processed (Note: OCR predictions may still not be 100% perfect).
+CG19.jpg,CG07MA7848,Processed (Note: OCR predictions may still not be 100% perfect).
+CG22.jpg,CG13AE4060,Processed (Note: OCR predictions may still not be 100% perfect).
+CH1.jpg,UNREADABLE,Failed to read.
+CH3.jpg,CH03K7672,Processed (Note: OCR predictions may still not be 100% perfect).
+CH4.jpg,CH01AX9090,Processed (Note: OCR predictions may still not be 100% perfect).
+CH5.jpg,CH01AP4538,Processed (Note: OCR predictions may still not be 100% perfect).
+CH6.jpg,CH01AZ2642,Processed (Note: OCR predictions may still not be 100% perfect).
+CH7.jpg,CH01AL4920,Processed (Note: OCR predictions may still not be 100% perfect).
+CH9.jpg,ECH0IAF1382,FLAGGED: Invalid State/RTO semantics.
+CH10.jpg,CH01AB4559,Processed (Note: OCR predictions may still not be 100% perfect).
+DL1.jpg,DL6CJ8404,FLAGGED: Invalid State/RTO semantics.
+DL2.jpg,DL10R7002,Processed (Note: OCR predictions may still not be 100% perfect).
+DL3.jpg,DL8CAU6883,FLAGGED: Invalid State/RTO semantics.
+DL5.jpg,DL12CN8660,Processed (Note: OCR predictions may still not be 100% perfect).
+DL6.jpg,DL4CAM9066,FLAGGED: Invalid State/RTO semantics.
+DL7.jpg,DL12CK8643,Processed (Note: OCR predictions may still not be 100% perfect).
+DL8.jpg,ED11OCH1252,FLAGGED: Invalid State/RTO semantics.
+DL10.jpg,SK05CAE1359,Processed (Note: OCR predictions may still not be 100% perfect).
+DL11.jpg,DL9CAP8884,FLAGGED: Invalid State/RTO semantics.
+DL14.jpg,DL9CAU4743,FLAGGED: Invalid State/RTO semantics.
+DL15.jpg,DL8CZ7230,FLAGGED: Invalid State/RTO semantics.
+DL16.jpg,DL9CAV1739,FLAGGED: Invalid State/RTO semantics.
+DL19.jpg,DL10T2782,Processed (Note: OCR predictions may still not be 100% perfect).
+DL21.jpg,DL12CS7886,Processed (Note: OCR predictions may still not be 100% perfect).
+DL22.jpg,DL6CL0457,FLAGGED: Invalid State/RTO semantics.
+DL26.jpg,DL11CA4900,Processed (Note: OCR predictions may still not be 100% perfect).
+DL27.jpg,DL10CA0986,Processed (Note: OCR predictions may still not be 100% perfect).
+DL30.jpg,UNREADABLE,Failed to read.
+DL33.jpg,DL4CNA7231,FLAGGED: Invalid State/RTO semantics.
+DN1.jpg,DN09H2191,FLAGGED: Invalid State/RTO semantics.
+DN3.jpg,DN09H0968,FLAGGED: Invalid State/RTO semantics.
+DN4.jpg,DN09J0032,FLAGGED: Invalid State/RTO semantics.
+DN6.jpg,DN09O1438,FLAGGED: Invalid State/RTO semantics.
+DN7.jpg,ON09O9704,FLAGGED: Invalid State/RTO semantics.
+DN8.jpg,ON09C0868,FLAGGED: Invalid State/RTO semantics.
+GA1.jpg,GX03R9230,FLAGGED: Invalid State/RTO semantics.
+GA2.jpg,GA08M0184,Processed (Note: OCR predictions may still not be 100% perfect).
+GA4.jpg,GA01C2098,Processed (Note: OCR predictions may still not be 100% perfect).
+GA5.jpg,GA01E5947,Processed (Note: OCR predictions may still not be 100% perfect).
+GA6.jpg,GA02JZZ,Processed (Note: OCR predictions may still not be 100% perfect).
+GA7.jpg,GA07K7150,Processed (Note: OCR predictions may still not be 100% perfect).
+GA8.jpg,GA05B5077,Processed (Note: OCR predictions may still not be 100% perfect).
+GA9.jpg,FG40GE3855,FLAGGED: Invalid State/RTO semantics.
+GA10.jpg,GA01R6315,Processed (Note: OCR predictions may still not be 100% perfect).
+GA12.jpg,GA03Y9512,Processed (Note: OCR predictions may still not be 100% perfect).
+GA13.jpg,GA07K6090,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ1.jpg,GJ74G4373,FLAGGED: Invalid State/RTO semantics.
+GJ2.jpg,GJ15CB3980,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ4.jpg,GJ06JE4788,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ6.jpg,GJ06FK2977,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ7.jpg,GJ34B9811,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ8.jpg,GJ16CH9827,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ9.jpg,GJ05RE8119,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ10.jpg,IO1837,FLAGGED: Invalid State/RTO semantics.
+GJ11.jpg,GJ06HS1855,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ12.jpg,GJ06PA0097,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ13.jpg,GJ06KP8508,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ15.jpg,EG30IBS1902,FLAGGED: Invalid State/RTO semantics.
+GJ18.jpg,GJ01RN4259,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ20.jpg,GJ01RK2430,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ21.jpg,GJ12CG2526,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ23.jpg,GJ01RS0198,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ24.jpg,GJ23CC8798,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ25.jpg,GJ01HM5887,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ26.jpg,GJ09AG8384,Processed (Note: OCR predictions may still not be 100% perfect).
+GJ28.jpg,GJ05JB6589,Processed (Note: OCR predictions may still not be 100% perfect).
+HP1.jpg,HP12H1324,Processed (Note: OCR predictions may still not be 100% perfect).
+HP2.jpg,ZO14HP164,FLAGGED: Invalid State/RTO semantics.
+HP3.jpg,HP666807,Processed (Note: OCR predictions may still not be 100% perfect).
+HP6.jpg,BP01I7630,FLAGGED: Invalid State/RTO semantics.
+HP7.jpg,HP12C3766,Processed (Note: OCR predictions may still not be 100% perfect).
+HP8.jpg,HP719898,Processed (Note: OCR predictions may still not be 100% perfect).
+HP9.jpg,HP23A6365,Processed (Note: OCR predictions may still not be 100% perfect).
+HP10.jpg,HP52B5958,Processed (Note: OCR predictions may still not be 100% perfect).
+HP11.jpg,HP12H7917,Processed (Note: OCR predictions may still not be 100% perfect).
+HP12.jpg,HP36E3330,Processed (Note: OCR predictions may still not be 100% perfect).
+HP13.jpg,HP34C8986,Processed (Note: OCR predictions may still not be 100% perfect).
+HP15.jpg,ZZ80OO | AU11ERR4C0,FLAGGED: Invalid State/RTO semantics.
+HP17.jpg,HP20E3953,Processed (Note: OCR predictions may still not be 100% perfect).
+HP19.jpg,HP54C6564,Processed (Note: OCR predictions may still not be 100% perfect).
+HP21.jpg,HP40B8992,Processed (Note: OCR predictions may still not be 100% perfect).
+HR1.jpg,HR26BQ8176,Processed (Note: OCR predictions may still not be 100% perfect).
+HR2.jpg,HR71F9259,Processed (Note: OCR predictions may still not be 100% perfect).
+HR3.jpg,HR29W8286,Processed (Note: OCR predictions may still not be 100% perfect).
+HR4.jpg,HR10AE9885,Processed (Note: OCR predictions may still not be 100% perfect).
+HR5.jpg,HR26CC7676,Processed (Note: OCR predictions may still not be 100% perfect).
+HR8.jpg,HR20X8432,Processed (Note: OCR predictions may still not be 100% perfect).
+HR9.jpg,SHR29AS0015,FLAGGED: Invalid State/RTO semantics.
+HR10.jpg,HR26BY4812,Processed (Note: OCR predictions may still not be 100% perfect).
+HR13.jpg,HR51AQ0911,Processed (Note: OCR predictions may still not be 100% perfect).
+HR14.jpg,HR51BU8218,Processed (Note: OCR predictions may still not be 100% perfect).
+HR15.jpg,HR29K7820,Processed (Note: OCR predictions may still not be 100% perfect).
+HR17.jpg,HR26BK8597,Processed (Note: OCR predictions may still not be 100% perfect).
+HR19.jpg,HR29AQ4939,Processed (Note: OCR predictions may still not be 100% perfect).
+HR20.jpg,HR26EJ7668,Processed (Note: OCR predictions may still not be 100% perfect).
+HR21.jpg,HR42B1329,Processed (Note: OCR predictions may still not be 100% perfect).
+HR22.jpg,HR09G8378,Processed (Note: OCR predictions may still not be 100% perfect).
+JH2.jpg,JH01AM0100,Processed (Note: OCR predictions may still not be 100% perfect).
+JH6.jpg,JH02AR0750,Processed (Note: OCR predictions may still not be 100% perfect).
+JH7.jpg,UNREADABLE,Failed to read.
+JH8.jpg,JH04C7104,Processed (Note: OCR predictions may still not be 100% perfect).
+JH9.jpg,JH01BB9936,Processed (Note: OCR predictions may still not be 100% perfect).
+JH11.jpg,JH01BC5210,Processed (Note: OCR predictions may still not be 100% perfect).
+JH12.jpg,JH01AX5392,Processed (Note: OCR predictions may still not be 100% perfect).
+JH13.jpg,JH01AM2354,Processed (Note: OCR predictions may still not be 100% perfect).
+JH14.jpg,JH10BV1496,Processed (Note: OCR predictions may still not be 100% perfect).
+JH15.jpg,JH08C0625,Processed (Note: OCR predictions may still not be 100% perfect).
+JH16.jpg,JH10S5378,Processed (Note: OCR predictions may still not be 100% perfect).
+JH19.jpg,JH05Y9636,Processed (Note: OCR predictions may still not be 100% perfect).
+JK1.jpg,JK02BF5058,Processed (Note: OCR predictions may still not be 100% perfect).
+JK2.jpg,JK02BJ7997,Processed (Note: OCR predictions may still not be 100% perfect).
+JK3.jpg,JK02BL1212,Processed (Note: OCR predictions may still not be 100% perfect).
+JK5.jpg,JK05H3594,Processed (Note: OCR predictions may still not be 100% perfect).
+JK6.jpg,JK01R8021,Processed (Note: OCR predictions may still not be 100% perfect).
+JK7.jpg,JK11B4928,Processed (Note: OCR predictions may still not be 100% perfect).
+JK8.jpg,JK02W2657,Processed (Note: OCR predictions may still not be 100% perfect).
+JK10.jpg,JK02AK8967,Processed (Note: OCR predictions may still not be 100% perfect).
+JK12.jpg,FJK0IAD3147,FLAGGED: Invalid State/RTO semantics.
+JK13.jpg,JK01AF7715,Processed (Note: OCR predictions may still not be 100% perfect).
+JK14.jpg,JK11D8143,Processed (Note: OCR predictions may still not be 100% perfect).
+JK16.jpg,JK09B7745,Processed (Note: OCR predictions may still not be 100% perfect).
+JK17.jpg,JK02AS3888,Processed (Note: OCR predictions may still not be 100% perfect).
+JK19.jpg,JK127959,Processed (Note: OCR predictions may still not be 100% perfect).
+JK23.jpg,JK02CC0447,Processed (Note: OCR predictions may still not be 100% perfect).
+JK26.jpg,EJK0ZAG2454,FLAGGED: Invalid State/RTO semantics.
+JK28.jpg,JK10A5217,FLAGGED: Invalid State/RTO semantics.
+JK29.jpg,JK01AF0310,Processed (Note: OCR predictions may still not be 100% perfect).
+JK31.jpg,UNREADABLE,Failed to read.
+JK32.jpg,RI3CIAS,FLAGGED: Invalid State/RTO semantics.
+JK34.jpg,JK10B2313,FLAGGED: Invalid State/RTO semantics.
+JK35.jpg,JK10A4638,FLAGGED: Invalid State/RTO semantics.
+JK36.jpg,JK072483,FLAGGED: Invalid State/RTO semantics.
+KA1.jpg,KA03HQ6984,Processed (Note: OCR predictions may still not be 100% perfect).
+KA2.jpg,KA05MF1762,Processed (Note: OCR predictions may still not be 100% perfect).
+KA3.jpg,KA06C9590,Processed (Note: OCR predictions may still not be 100% perfect).
+KA4.jpg,KA38M8037,Processed (Note: OCR predictions may still not be 100% perfect).
+KA5.jpg,KA53P7604,Processed (Note: OCR predictions may still not be 100% perfect).
+KA7.jpg,UNREADABLE,Failed to read.
+KA9.jpg,UNREADABLE,Failed to read.
+KA10.jpg,KA04MG7528,Processed (Note: OCR predictions may still not be 100% perfect).
+KA11.jpg,KA04MK0368,Processed (Note: OCR predictions may still not be 100% perfect).
+KA16.jpg,KA03NC7167,Processed (Note: OCR predictions may still not be 100% perfect).
+KA17.jpg,KA01MG1660,Processed (Note: OCR predictions may still not be 100% perfect).
+KA20.jpg,KA19MF1763,Processed (Note: OCR predictions may still not be 100% perfect).
+KA21.jpg,KA28M3589,Processed (Note: OCR predictions may still not be 100% perfect).
+KA24.jpg,KA25P5080,Processed (Note: OCR predictions may still not be 100% perfect).
+KA25.jpg,KA38M8037,Processed (Note: OCR predictions may still not be 100% perfect).
+KL4.jpg,KL27O9809,Processed (Note: OCR predictions may still not be 100% perfect).
+KL7.jpg,UNREADABLE,Failed to read.
+KL10.jpg,KL45C441,Processed (Note: OCR predictions may still not be 100% perfect).
+KL14.jpg,KL03S6394,Processed (Note: OCR predictions may still not be 100% perfect).
+KL15.jpg,KL43G6619,Processed (Note: OCR predictions may still not be 100% perfect).
+KL16.jpg,KL43D4444,Processed (Note: OCR predictions may still not be 100% perfect).
+LA1.jpg,AO207A9,FLAGGED: Invalid State/RTO semantics.
+MH2.jpg,MH48AK2798,Processed (Note: OCR predictions may still not be 100% perfect).
+MH6.jpg,MH47N0712,Processed (Note: OCR predictions may still not be 100% perfect).
+MH8.jpg,MH02DN7410,Processed (Note: OCR predictions may still not be 100% perfect).
+MH10.jpg,MH11CQ8516,Processed (Note: OCR predictions may still not be 100% perfect).
+MH11.jpg,UNREADABLE,Failed to read.
+MH12.jpg,MH12NJ5838,Processed (Note: OCR predictions may still not be 100% perfect).
+MH13.jpg,MH05BS3471,Processed (Note: OCR predictions may still not be 100% perfect).
+MH14.jpg,MH43X8997,Processed (Note: OCR predictions may still not be 100% perfect).
+MH15.jpg,MH05EO4066,Processed (Note: OCR predictions may still not be 100% perfect).
+MH16.jpg,MH12GR862,Processed (Note: OCR predictions may still not be 100% perfect).
+MH17.jpg,MH01BT7906,Processed (Note: OCR predictions may still not be 100% perfect).
+MH18.jpg,MH12HN4507,Processed (Note: OCR predictions may still not be 100% perfect).
+MH19.jpg,MH12KN8366,Processed (Note: OCR predictions may still not be 100% perfect).
+MH20.jpg,MH12KJ7659,Processed (Note: OCR predictions may still not be 100% perfect).
+MH21.jpg,MH04DR8508,Processed (Note: OCR predictions may still not be 100% perfect).
+MH22.jpg,UNREADABLE,Failed to read.
+MH24.jpg,MH04HF5092,Processed (Note: OCR predictions may still not be 100% perfect).
+MH25.jpg,MH12FK1392,Processed (Note: OCR predictions may still not be 100% perfect).
+MH26.jpg,MH12HF5057,Processed (Note: OCR predictions may still not be 100% perfect).
+ML1.jpg,ML05F6894,Processed (Note: OCR predictions may still not be 100% perfect).
+ML2.jpg,ML05Q8790,Processed (Note: OCR predictions may still not be 100% perfect).
+ML7.jpg,NL069642,Processed (Note: OCR predictions may still not be 100% perfect).
+ML8.jpg,ML087084,Processed (Note: OCR predictions may still not be 100% perfect).
+ML13.jpg,HL05H1958,FLAGGED: Invalid State/RTO semantics.
+ML15.jpg,ML111909,FLAGGED: Invalid State/RTO semantics.
+ML17.jpg,EM10SL5154,FLAGGED: Invalid State/RTO semantics.
+ML18.jpg,ML10B4503,Processed (Note: OCR predictions may still not be 100% perfect).
+ML19.jpg,ML04C0056,Processed (Note: OCR predictions may still not be 100% perfect).
+ML20.jpg,ML137827,FLAGGED: Invalid State/RTO semantics.
+ML23.jpg,ML05R1934,Processed (Note: OCR predictions may still not be 100% perfect).
+ML25.jpg,ML04B8389,Processed (Note: OCR predictions may still not be 100% perfect).
+ML26.jpg,ML068346,Processed (Note: OCR predictions may still not be 100% perfect).
+ML27.jpg,ML05K9494,Processed (Note: OCR predictions may still not be 100% perfect).
+ML32.jpg,LI002674,FLAGGED: Invalid State/RTO semantics.
+ML33.jpg,ML04B8918,Processed (Note: OCR predictions may still not be 100% perfect).
+ML34.jpg,ML05H6564,Processed (Note: OCR predictions may still not be 100% perfect).
+ML35.jpg,ML05G3474,Processed (Note: OCR predictions may still not be 100% perfect).
+ML36.jpg,ML08B1100,Processed (Note: OCR predictions may still not be 100% perfect).
+ML38.jpg,ML064696,Processed (Note: OCR predictions may still not be 100% perfect).
+ML39.jpg,RJ05G6098,Processed (Note: OCR predictions may still not be 100% perfect).
+MN2.jpg,SHN0SX5028,FLAGGED: Invalid State/RTO semantics.
+MN3.jpg,PRN0IG0297,FLAGGED: Invalid State/RTO semantics.
+MN4.jpg,FMN0GLA0861,FLAGGED: Invalid State/RTO semantics.
+MP1.jpg,MP04CL3546,Processed (Note: OCR predictions may still not be 100% perfect).
+MP2.jpg,EMP0ZCL8840,FLAGGED: Invalid State/RTO semantics.
+MP3.jpg,MP65C0654,Processed (Note: OCR predictions may still not be 100% perfect).
+MP5.jpg,IP201091,FLAGGED: Invalid State/RTO semantics.
+MP6.jpg,MP07CA5563,Processed (Note: OCR predictions may still not be 100% perfect).
+MP8.jpg,MP09CQ9712,Processed (Note: OCR predictions may still not be 100% perfect).
+MP9.jpg,MP45G0872,Processed (Note: OCR predictions may still not be 100% perfect).
+MP10.jpg,MP08CA6293,Processed (Note: OCR predictions may still not be 100% perfect).
+MP11.jpg,MP07CB8897,Processed (Note: OCR predictions may still not be 100% perfect).
+MZ1.jpg,MZ01G9825,Processed (Note: OCR predictions may still not be 100% perfect).
+NL2.jpg,NL01C8433,Processed (Note: OCR predictions may still not be 100% perfect).
+NL3.jpg,NL078440,Processed (Note: OCR predictions may still not be 100% perfect).
+NL4.jpg,OZ039A7,FLAGGED: Invalid State/RTO semantics.
+NL5.jpg,UNREADABLE,Failed to read.
+NL6.jpg,NL02C9593,Processed (Note: OCR predictions may still not be 100% perfect).
+NL9.jpg,NL02C6709,Processed (Note: OCR predictions may still not be 100% perfect).
+OD3.jpg,OZV0OO7,FLAGGED: Invalid State/RTO semantics.
+OD4.jpg,OD02C2836,Processed (Note: OCR predictions may still not be 100% perfect).
+OD5.jpg,OD14E3131,Processed (Note: OCR predictions may still not be 100% perfect).
+OD6.jpg,OR08F1001,Processed (Note: OCR predictions may still not be 100% perfect).
+OD9.jpg,OD33L2616,Processed (Note: OCR predictions may still not be 100% perfect).
+OD10.jpg,OD05K6964,Processed (Note: OCR predictions may still not be 100% perfect).
+OD11.jpg,UNREADABLE,Failed to read.
+OD12.jpg,OR05AN4494,Processed (Note: OCR predictions may still not be 100% perfect).
+OD13.jpg,OD052323,Processed (Note: OCR predictions may still not be 100% perfect).
+OD14.jpg,OD02L4656,Processed (Note: OCR predictions may still not be 100% perfect).
+OD15.jpg,OD05Y5787,Processed (Note: OCR predictions may still not be 100% perfect).
+OD16.jpg,OR14U8730,Processed (Note: OCR predictions may still not be 100% perfect).
+OD18.jpg,OD221201,Processed (Note: OCR predictions may still not be 100% perfect).
+OD19.jpg,OD11P6123,Processed (Note: OCR predictions may still not be 100% perfect).
+OD22.jpg,OR05AC0422 | OR05AC0422,FLAGGED FOR MANUAL CHECK: Detected more than 12 characters.
+OD23.jpg,OR21E1033,FLAGGED: Invalid State/RTO semantics.
+OD24.jpg,OD02J0435,Processed (Note: OCR predictions may still not be 100% perfect).
+OD25.jpg,OD02AP3010,Processed (Note: OCR predictions may still not be 100% perfect).
+OD26.jpg,OD021481,Processed (Note: OCR predictions may still not be 100% perfect).
+PB4.jpg,PB07BL8058,Processed (Note: OCR predictions may still not be 100% perfect).
+PB7.jpg,UNREADABLE,Failed to read.
+PB9.jpg,9933SF9333,FLAGGED: Invalid State/RTO semantics.
+PB10.jpg,PB11BN6101,Processed (Note: OCR predictions may still not be 100% perfect).
+PB11.jpg,PB08CO3690,Processed (Note: OCR predictions may still not be 100% perfect).
+PB12.jpg,PB07BY3563,Processed (Note: OCR predictions may still not be 100% perfect).
+PB14.jpg,PB10EH0164,Processed (Note: OCR predictions may still not be 100% perfect).
+PB17.jpg,PB23S8600,Processed (Note: OCR predictions may still not be 100% perfect).
+PB18.jpg,EP80BBF6160,FLAGGED: Invalid State/RTO semantics.
+PB20.jpg,PB31R8123,Processed (Note: OCR predictions may still not be 100% perfect).
+PB21.jpg,PB37A8269,Processed (Note: OCR predictions may still not be 100% perfect).
+PB27.jpg,EP86SAN2583,FLAGGED: Invalid State/RTO semantics.
+PB29.jpg,PB10EE0888,Processed (Note: OCR predictions may still not be 100% perfect).
+PB30.jpg,PB08DY4824,Processed (Note: OCR predictions may still not be 100% perfect).
+PY1.jpg,PY01Q7947,Processed (Note: OCR predictions may still not be 100% perfect).
+PY2.jpg,PY01CM9549,Processed (Note: OCR predictions may still not be 100% perfect).
+PY3.jpg,PPY0ICH5400,FLAGGED: Invalid State/RTO semantics.
+PY4.jpg,PY02S7828,Processed (Note: OCR predictions may still not be 100% perfect).
+PY5.jpg,PY01AW2814,Processed (Note: OCR predictions may still not be 100% perfect).
+PY6.jpg,PY01AP0555,Processed (Note: OCR predictions may still not be 100% perfect).
+PY7.jpg,PY036993,Processed (Note: OCR predictions may still not be 100% perfect).
+PY8.jpg,PY01BO9020,Processed (Note: OCR predictions may still not be 100% perfect).
+PY9.jpg,PY055353,Processed (Note: OCR predictions may still not be 100% perfect).
+PY10.jpg,PY01CE4149,Processed (Note: OCR predictions may still not be 100% perfect).
+PY13.jpg,PY01CG2929,Processed (Note: OCR predictions may still not be 100% perfect).
+PY14.jpg,UNREADABLE,Failed to read.
+PY15.jpg,PY05A8339,Processed (Note: OCR predictions may still not be 100% perfect).
+PY16.jpg,PY01BU2406,Processed (Note: OCR predictions may still not be 100% perfect).
+PY17.jpg,PY02S9326,Processed (Note: OCR predictions may still not be 100% perfect).
+RJ4.jpg,FRJ2OCD5118,FLAGGED: Invalid State/RTO semantics.
+RJ5.jpg,RJ14CF5807,Processed (Note: OCR predictions may still not be 100% perfect).
+RJ6.jpg,RJ23CB2272,Processed (Note: OCR predictions may still not be 100% perfect).
+RJ7.jpg,RJ23CB4320,Processed (Note: OCR predictions may still not be 100% perfect).
+RJ10.jpg,RJ14CH3730,Processed (Note: OCR predictions may still not be 100% perfect).
+SK3.jpg,SK01PA7708,Processed (Note: OCR predictions may still not be 100% perfect).
+SK4.jpg,SK01PA4521,Processed (Note: OCR predictions may still not be 100% perfect).
+SK6.jpg,SK04P1320,Processed (Note: OCR predictions may still not be 100% perfect).
+SK7.jpg,ESK0ZP3471,FLAGGED: Invalid State/RTO semantics.
+SK8.jpg,SK01PA5349,Processed (Note: OCR predictions may still not be 100% perfect).
+SK9.jpg,SK01T8791,Processed (Note: OCR predictions may still not be 100% perfect).
+SK11.jpg,SK02P1078,Processed (Note: OCR predictions may still not be 100% perfect).
+SK12.jpg,SK0173835,Processed (Note: OCR predictions may still not be 100% perfect).
+SK13.jpg,SK05I0338,Processed (Note: OCR predictions may still not be 100% perfect).
+TN2.jpg,TN76V1978,Processed (Note: OCR predictions may still not be 100% perfect).
+TN4.jpg,TN10AR0131,Processed (Note: OCR predictions may still not be 100% perfect).
+TN5.jpg,TN471446,Processed (Note: OCR predictions may still not be 100% perfect).
+TN6.jpg,TN19F0816,Processed (Note: OCR predictions may still not be 100% perfect).
+TN7.jpg,TN07BT5778,Processed (Note: OCR predictions may still not be 100% perfect).
+TN8.jpg,TN07AP0659,Processed (Note: OCR predictions may still not be 100% perfect).
+TN9.jpg,TN19Q0835,Processed (Note: OCR predictions may still not be 100% perfect).
+TN10.jpg,TN69AJ4455,Processed (Note: OCR predictions may still not be 100% perfect).
+TR1.jpg,TR05B0308,Processed (Note: OCR predictions may still not be 100% perfect).
+TR2.jpg,TR03H0259,Processed (Note: OCR predictions may still not be 100% perfect).
+TR3.jpg,TR02L0569,Processed (Note: OCR predictions may still not be 100% perfect).
+TR4.jpg,TR01N0481,Processed (Note: OCR predictions may still not be 100% perfect).
+TR5.jpg,TR01X0482,Processed (Note: OCR predictions may still not be 100% perfect).
+TR8.jpg,ROE2IS7,FLAGGED: Invalid State/RTO semantics.
+TR9.jpg,TR01AS0609,Processed (Note: OCR predictions may still not be 100% perfect).
+TR10.jpg,TR07D0569,Processed (Note: OCR predictions may still not be 100% perfect).
+TS2.jpg,SS07E73335,FLAGGED: Invalid State/RTO semantics.
+TS3.jpg,TS09EZ9293,Processed (Note: OCR predictions may still not be 100% perfect).
+TS4.jpg,TS09EZ9296,Processed (Note: OCR predictions may still not be 100% perfect).
+TS7.jpg,TS08EZ9463,Processed (Note: OCR predictions may still not be 100% perfect).
+TS8.jpg,TS09EG6565,Processed (Note: OCR predictions may still not be 100% perfect).
+TS9.jpg,SZ183SI,FLAGGED: Invalid State/RTO semantics.
+TS10.jpg,TS1EQ2914,FLAGGED: Invalid State/RTO semantics.
+TS12.jpg,TS09UA7948,Processed (Note: OCR predictions may still not be 100% perfect).
+TS13.jpg,TS15ES0894,Processed (Note: OCR predictions may still not be 100% perfect).
+TS14.jpg,TS36H6578,Processed (Note: OCR predictions may still not be 100% perfect).
+TS15.jpg,TS13EK6213,Processed (Note: OCR predictions may still not be 100% perfect).
+TS16.jpg,TS07HM2684,Processed (Note: OCR predictions may still not be 100% perfect).
+UK1.jpg,UK08W2276,Processed (Note: OCR predictions may still not be 100% perfect).
+UK2.jpg,UK06CB4595,Processed (Note: OCR predictions may still not be 100% perfect).
+UK3.jpg,UK185763,Processed (Note: OCR predictions may still not be 100% perfect).
+UK4.jpg,UP23K0008,Processed (Note: OCR predictions may still not be 100% perfect).
+UK5.jpg,UK106679,Processed (Note: OCR predictions may still not be 100% perfect).
+UK7.jpg,UK07AM5665,Processed (Note: OCR predictions may still not be 100% perfect).
+UK8.jpg,UK07BK5014,Processed (Note: OCR predictions may still not be 100% perfect).
+UK10.jpg,UK07AA2432,Processed (Note: OCR predictions may still not be 100% perfect).
+UP1.jpg,UP57H8173,Processed (Note: OCR predictions may still not be 100% perfect).
+UP2.jpg,UP85BN4203,Processed (Note: OCR predictions may still not be 100% perfect).
+UP3.jpg,UP80FA1666,Processed (Note: OCR predictions may still not be 100% perfect).
+UP4.jpg,UP16U3849,Processed (Note: OCR predictions may still not be 100% perfect).
+UP5.jpg,UP32EC5577,Processed (Note: OCR predictions may still not be 100% perfect).
+UP10.jpg,UP78DB3730,Processed (Note: OCR predictions may still not be 100% perfect).
+UP11.jpg,PB34K116,Processed (Note: OCR predictions may still not be 100% perfect).
+UP15.jpg,UP79L0567,Processed (Note: OCR predictions may still not be 100% perfect).
+UP17.jpg,UP32CX3400,Processed (Note: OCR predictions may still not be 100% perfect).
+UP19.jpg,FUP4SO3028,FLAGGED: Invalid State/RTO semantics.
+UP21.jpg,UP52AH9705,Processed (Note: OCR predictions may still not be 100% perfect).
+UP24.jpg,UP27Z7322,Processed (Note: OCR predictions may still not be 100% perfect).
+UP25.jpg,UP32BF3577,Processed (Note: OCR predictions may still not be 100% perfect).
+UP26.jpg,UP44X9754,Processed (Note: OCR predictions may still not be 100% perfect).
+UP28.jpg,UP32HY6077,Processed (Note: OCR predictions may still not be 100% perfect).
+UP29.jpg,UP14AF3804,Processed (Note: OCR predictions may still not be 100% perfect).
+WB2.jpg,WB02M8447,Processed (Note: OCR predictions may still not be 100% perfect).
+WB3.jpg,BR063763,Processed (Note: OCR predictions may still not be 100% perfect).
+WB4.jpg,WB02X8795,Processed (Note: OCR predictions may still not be 100% perfect).
+WB11.jpg,WB08A4101,Processed (Note: OCR predictions may still not be 100% perfect).
+WB12.jpg,WB26S5093,Processed (Note: OCR predictions may still not be 100% perfect).
+WB14.jpg,WB36G6682,Processed (Note: OCR predictions may still not be 100% perfect).
+WB15.jpg,WB12AX2987,Processed (Note: OCR predictions may still not be 100% perfect).
+WB17.jpg,WB02AJ4534,Processed (Note: OCR predictions may still not be 100% perfect).
+WB19.jpg,WB061061,Processed (Note: OCR predictions may still not be 100% perfect).
+WB20.jpg,WB171717,Processed (Note: OCR predictions may still not be 100% perfect).
+WB22.jpg,WB20HOZ,Processed (Note: OCR predictions may still not be 100% perfect).
+WB23.jpg,WB20AG9041,Processed (Note: OCR predictions may still not be 100% perfect).
+WB25.jpg,SK062237,Processed (Note: OCR predictions may still not be 100% perfect).
+WB26.jpg,BR24O3017,Processed (Note: OCR predictions may still not be 100% perfect).
+WB28.jpg,WB02AM8548,Processed (Note: OCR predictions may still not be 100% perfect).
